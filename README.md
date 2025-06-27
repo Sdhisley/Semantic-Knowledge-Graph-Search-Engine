@@ -90,6 +90,4 @@ Additional Notes
 	•	If you need to reset the database, stop and remove the mongodb-container, then repeat the data load step.
 	•	Logs for the backend service are written to server.log in backendv2/.
 
-License
 
-This project is licensed under the MIT License.
